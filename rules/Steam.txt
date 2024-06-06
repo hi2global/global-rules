@@ -1,0 +1,13 @@
+payload:
+  - '+.fanatical.com'
+  - '+.humblebundle.com'
+  - '+.playartifact.com'
+  - '+.steam-chat.com'
+  - '+.steamcommunity.com'
+  - '+.steamgames.com'
+  - '+.steamserver.net'
+  - '+.steamstat.us'
+  - '+.underlords.com'
+  - '+.valvesoftware.com'
+  - '+.steamstatic.com'
+  - '+.steampowered.com'
