@@ -7,3 +7,5 @@ payload:
   - 'spaceship.com'
   - '+.spaceship-cdn.com'
   - 'spaceship-cdn.com'
+  - '+.aliyun.com'
+  - 'aliyun.com'
