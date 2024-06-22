@@ -1,6 +1,6 @@
 payload:
-  - '*tiktokcdn'
-  - '*tiktok'
+  - 'tiktokcdn'
+  - 'tiktok'
   - '+.byteoversea.com'
   - '+.ibytedtos.com'
   - '+.ipstatp.com'
@@ -10,3 +10,5 @@ payload:
   - '+.tiktok.com'
   - '+.tiktokcdn.com'
   - '+.tiktokv.com'
+  - '+.tiktokv.us'
+  - '+.tiktokcdn-us.com'
