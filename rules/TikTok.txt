@@ -1,0 +1,12 @@
+payload:
+  - '*tiktokcdn'
+  - '*tiktok'
+  - '+.byteoversea.com'
+  - '+.ibytedtos.com'
+  - '+.ipstatp.com'
+  - '+.muscdn.com'
+  - '+.musical.ly'
+  - '+.tik-tokapi.com'
+  - '+.tiktok.com'
+  - '+.tiktokcdn.com'
+  - '+.tiktokv.com'
