@@ -1,5 +1,5 @@
 payload:
-  - '*youtube'
+  - '+.youtube.*'
   - 'youtubei.googleapis.com'
   - 'yt3.ggpht.com'
   - '+.googlevideo.com'
