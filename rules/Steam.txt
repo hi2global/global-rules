@@ -5,7 +5,6 @@ payload:
   - '+.steam-chat.com'
   - '+.steamcommunity.com'
   - '+.steamgames.com'
-  - '+.steamserver.net'
   - '+.steamstat.us'
   - '+.underlords.com'
   - '+.valvesoftware.com'
