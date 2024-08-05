@@ -14,17 +14,17 @@ rule-providers:
     url: https://raw.githubusercontent.com/hi2global/global-rules/main/rules/GoogleNoYTB.txt
     path: ./rules/google.yaml
     interval: 86400
-  googlefcm:
-    type: http
-    behavior: domain
-    url: https://raw.githubusercontent.com/hi2global/global-rules/main/rules/GoogleFCM.txt
-    path: ./rules/googlefcm.yaml
-    interval: 86400
   googleip:
     type: http
     behavior: ipcidr
     url: https://raw.githubusercontent.com/hi2global/global-rules/main/rules/GoogleIP.txt
     path: ./rules/googleip.yaml
+    interval: 86400
+  github:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/hi2global/global-rules/main/rules/Github.txt
+    path: ./rules/github.yaml
     interval: 86400
   googlefcmip:
     type: http
@@ -56,6 +56,30 @@ rule-providers:
     url: https://raw.githubusercontent.com/hi2global/global-rules/main/rules/TelegramIP-EU.txt
     path: ./rules/telegramipeu.yaml
     interval: 86400
+  telegram:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/hi2global/global-rules/main/rules/Telegram.txt
+    path: ./rules/telegram.yaml
+    interval: 86400
+  tiktok:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/hi2global/global-rules/main/rules/TikTok.txt
+    path: ./ruleset/tiktok.yaml
+    interval: 86400
+  onedrive:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/hi2global/global-rules/main/rules/OneDrive.txt
+    path: ./ruleset/onedrive.yaml
+    interval: 86400
+  microsoft:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/hi2global/global-rules/main/rules/Microsoft.txt
+    path: ./ruleset/microsoft.yaml
+    interval: 86400
   steam:
     type: http
     behavior: domain
@@ -68,27 +92,31 @@ rule-providers:
     url: https://raw.githubusercontent.com/hi2global/global-rules/main/rules/SteamDirect.txt
     path: ./rules/steamdirect.yaml
     interval: 86400
-  selfdirect:
+  steamdirectip:
     type: http
-    behavior: domain
-    url: https://raw.githubusercontent.com/hi2global/global-rules/main/rules/SelfDirect.txt
-    path: ./rules/selfdirect.yaml
+    behavior: ipcidr
+    url: https://raw.githubusercontent.com/hi2global/global-rules/main/rules/SteamDirectIP.txt
+    path: ./rules/steamdirectip.yaml
     interval: 86400
 ```
 
 ```bash
 rules:
-  - RULE-SET,selfdirect,🆖 本地直连,no-resolve
-  - RULE-SET,steamdirect,🆖 本地直连,no-resolve
-  - RULE-SET,reject,🛑 广告拦截
-  - RULE-SET,ai,🔓 解锁,no-resolve
-  - RULE-SET,youtube,📹 油管,no-resolve
-  - RULE-SET,googlefcm,⚒️ 谷歌,no-resolve
-  - RULE-SET,googlefcmip,⚒️ 谷歌,no-resolve
-  - RULE-SET,google,⚒️ 谷歌,no-resolve
-  - RULE-SET,googleip,⚒️ 谷歌,no-resolve
-  - RULE-SET,telegramipas,🌏 亚洲,no-resolve
-  - RULE-SET,telegramipna,🌎 美洲,no-resolve
-  - RULE-SET,telegramipeu,🌍 欧洲,no-resolve
-  - RULE-SET,steam,🎮 Steam,no-resolve
+  - RULE-SET,selfdirect,🆖 本地直连
+  - RULE-SET,steamdirectip,🆖 本地直连
+  - RULE-SET,steamdirect,🆖 本地直连
+  - RULE-SET,steam,🎮 Steam
+  - RULE-SET,ai,🎨 AI服务
+  - RULE-SET,tiktok,🎶 TikTok
+  - RULE-SET,youtube,📹 油管
+  - RULE-SET,google,🔎 谷歌
+  - RULE-SET,googleip,🔎 谷歌
+  - RULE-SET,googlefcmip,🔎 谷歌
+  - RULE-SET,github,🛠️ Github
+  - RULE-SET,microsoft,Ⓜ️ 微软
+  - RULE-SET,onedrive,Ⓜ️ 微软
+  - RULE-SET,telegramipas,📲 电报
+  - RULE-SET,telegramipna,📲 电报
+  - RULE-SET,telegramipeu,📲 电报
+  - RULE-SET,telegram,📲 电报
 ```
