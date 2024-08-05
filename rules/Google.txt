@@ -25,3 +25,4 @@ payload:
   - '+.ytimg.com'
   - '+.googletagmanager.com'
   - '+.google-analytics.com'
+  - '+.googleusercontent.com'
