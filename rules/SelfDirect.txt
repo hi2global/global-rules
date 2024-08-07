@@ -9,3 +9,5 @@ payload:
   - 'spaceship-cdn.com'
   - '+.aliyun.com'
   - 'aliyun.com'
+  - 'duocloud.net'
+  - '+.duocloud.net'
