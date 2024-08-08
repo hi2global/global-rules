@@ -24,6 +24,8 @@ payload:
  - '+.live.com'
  - '+.live.net'
  - '+.lync.com'
+ - '+.microsoft.com'
+ - '+.microsoft.net'
  - '+.msappproxy.net'
  - '+.msauth.net'
  - '+.msauthimages.net'
