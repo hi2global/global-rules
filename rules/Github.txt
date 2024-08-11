@@ -4,3 +4,4 @@ payload:
   - '+.githubapp.com'
   - '+.githubassets.com'
   - '+.githubusercontent.com'
+  - '+.githubcopilot.com'
