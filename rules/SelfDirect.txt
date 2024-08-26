@@ -11,3 +11,6 @@ payload:
   - 'aliyun.com'
   - 'duocloud.net'
   - '+.duocloud.net'
+  - 'iq.com'
+  - '+.iq.com'
+  - '+.iqiyipic.com'
