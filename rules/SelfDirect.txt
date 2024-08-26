@@ -15,4 +15,4 @@ payload:
   - '+.iq.com'
   - '+.iqiyipic.com'
   - '+.iqiyi.com'
-  - 'qy.com'
+  - '+.qy.net'
