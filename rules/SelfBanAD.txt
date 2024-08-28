@@ -1,0 +1,13 @@
+payload:
+  - 'adse.ximalaya.com'
+  - 'linkeye.ximalaya.com'
+  - 'location.ximalaya.com'
+  - 'xdcs-collector.ximalaya.com'
+  - 'ads.union.jd.com'
+  - 'c-nfa.jd.com'
+  - 'cps.360buy.com'
+  - 'img-x.jd.com'
+  - 'jrclick.jd.com'
+  - 'jzt.jd.com'
+  - 'policy.jd.com'
+  - 'stat.m.jd.com'
