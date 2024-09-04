@@ -1,6 +1,7 @@
 payload:
   - '+.gmail.*'
   - '+.google.*'
+  - '+.google'
   - '+.google.com'
   - '+.gmail.com'
   - '+.1e100.net'
