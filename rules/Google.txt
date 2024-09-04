@@ -3,6 +3,7 @@ payload:
   - '+.google.*'
   - '+.google'
   - '+.google.com'
+  - '+.withgoogle.com'
   - '+.gmail.com'
   - '+.1e100.net'
   - '+.2mdn.net'
