@@ -1,6 +1,4 @@
 payload:
-  - '+.bing.com'
-  - 'bing.com'
   - '+.anthropic.com'
   - 'anthropic.com'
   - '+.claude.ai'
