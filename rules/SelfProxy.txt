@@ -1,3 +1,5 @@
 payload:
   - 'alibabacloud.com'
   - '+.alibabacloud.com'
+  - 'naixi.net'
+  - '+.naixi.net'
