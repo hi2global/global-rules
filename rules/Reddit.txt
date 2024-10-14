@@ -1,0 +1,4 @@
+payload:
+  - '+.redditmedia.com'
+  - '+.redd.it'
+  - '+.reddit.com'
