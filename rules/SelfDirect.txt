@@ -1,12 +1,6 @@
 payload:
   - 'international-gfe.download.nvidia.com'
   - '+.download.nvidia.com'
-  - 'vps.com'
-  - 'v.ps'
-  - '+.spaceship.com'
-  - 'spaceship.com'
-  - '+.spaceship-cdn.com'
-  - 'spaceship-cdn.com'
   - '+.aliyun.com'
   - 'aliyun.com'
   - 'duocloud.net'
