@@ -14,3 +14,5 @@ payload:
   - '+.tiktokv.com'
   - '+.tiktokv.us'
   - '+.tiktokcdn-us.com'
+  - '+.bytedance.map.fastly.net'
+  - 'a29.us.akamai.net'
