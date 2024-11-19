@@ -3,3 +3,4 @@ payload:
   - '+.yxvm.com'
   - '+.nodeseek.com'
   - '+.sharon.io'
+  - '+.duocloud.net'
