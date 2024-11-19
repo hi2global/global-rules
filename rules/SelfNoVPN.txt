@@ -1,0 +1,9 @@
+payload:
+  - 'bgp.gd'
+  - '+.bgp.gd'
+  - 'yxvm.com'
+  - '+.yxvm.com'
+  - 'nodeseek.com'
+  - '+.nodeseek.com'
+  - 'sharon.io'
+  - '+.sharon.io'
