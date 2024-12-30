@@ -1,3 +1,4 @@
 payload:
   - '+.cursor.sh'
   - '+.codeium.com'
+  - '+.core.windows.net'
