@@ -19,3 +19,5 @@ payload:
   - '+.oaiusercontent.com'
   - '+.azurefd.net'
   - '+.ai.com'
+  - '+.x.ai'
+  - '+.grok.com'
