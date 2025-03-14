@@ -10,3 +10,4 @@ payload:
   - '+.valvesoftware.com'
   - '+.steamstatic.com'
   - '+.steampowered.com'
+  - '+.steamserver.net'
