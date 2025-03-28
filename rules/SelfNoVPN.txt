@@ -7,4 +7,3 @@ payload:
   - '+.duocloud.net'
   - '+.vmiss.com'
   - '+.stripe.com'
-  - '+.alipayplus.com'
