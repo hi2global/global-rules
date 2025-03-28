@@ -8,3 +8,4 @@ payload:
   - '+.iqiyipic.com'
   - '+.iqiyi.com'
   - '+.qy.net'
+  - '+.alipayplus.com'
