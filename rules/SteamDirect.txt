@@ -1,7 +1,9 @@
 payload:
+  - '+.akamaihd.net'
   - 'api.steampowered.com'
   - '+.steamcontent.com'
   - '+.steamchina.com'
+  - '+.steamstatic.com'
   - '*.cm.steampowered.com'
   - 'ext1-hkg1.steamserver.net'
   - 'ext2-hkg1.steamserver.net'
